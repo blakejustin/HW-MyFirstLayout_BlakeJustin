@@ -3882,6 +3882,10 @@ input, select, textarea {
 		background-attachment: scroll;
 	}
 
+	.imagePortfolio {
+		display: block;
+	}
+
 /* Footer */
 
 	#footer {
